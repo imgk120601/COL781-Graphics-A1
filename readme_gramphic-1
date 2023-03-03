@@ -1,0 +1,12 @@
+1)//your resposiblity to telll e5.cpp or not
+bool ise5=false;
+
+2) for new.cpp
+	void Rasterizer::show() {
+
+			//uncomment this for part2-ii -clock
+			//drawclock();
+			//for clokc change frame to 400 x 400
+
+3)tu run part1 : g++ SoftwareRasterization.cpp -lSDL2 -lSDL2_image
+4)to part2 and part3 : go to build folder, cmake.. , make , (run any executable u like)
